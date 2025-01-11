@@ -1,0 +1,29 @@
+.fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;}
+nav ul{
+    display: flex;
+    justify-content:space-between ;
+    padding: 24px 160px;
+    list-style: none;
+    
+}
+.anchor{
+    text-decoration: none;
+    color: black;
+    height: 38px;
+    width: 222px;
+    
+}
+.border{
+    border-radius: 5px;
+    border-color: #03a37b #03a37b#03a37b#03a37b ;
+    height: 52px;
+    width: 116px;
+    font-weight: bold;
+    padding: 15px 30px 15px 30px;
+
+    
+    color:#006A50;
+}
